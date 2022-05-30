@@ -1,2 +1,2 @@
-# telegram-bot
-Telegram Bot for private use
+# HomeAutomatedBot
+Telegram Bot development and learning
